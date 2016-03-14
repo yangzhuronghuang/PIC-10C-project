@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Player.jpg</file>
+        <file>monster.jpg</file>
+        <file>wtf.jpeg</file>
+        <file>yeah.jpeg</file>
+        <file>walls.jpeg</file>
+        <file>mine.jpg</file>
+    </qresource>
+</RCC>
